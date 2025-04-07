@@ -1,0 +1,14 @@
+.elm_1,
+.elm_2 {
+    font-size: 28px;
+    font-family: Helvectia, Times New Roman, sans-serif;
+}
+
+.elm_1 {
+background-color: black;
+color: white;
+}
+
+.elm_2 {
+    background-color: yellow;
+}
